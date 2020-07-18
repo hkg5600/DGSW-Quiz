@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "331440108260",
+    "firebase_url": "https://dgsw-gy-quiz.firebaseio.com",
+    "project_id": "dgsw-gy-quiz",
+    "storage_bucket": "dgsw-gy-quiz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331440108260:android:c5a8d9d3f60670cd42f2f1",
+        "android_client_info": {
+          "package_name": "com.wrteam.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "331440108260-ar5335k9jf66sntgh0tumcl0bo7a9h7q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.wrteam.quiz",
+            "certificate_hash": "70066408e9ef177757c6d5c364f184b7e67d1bde"
+          }
+        },
+        {
+          "client_id": "331440108260-snv7a1dh3ohmks9p830sb38gasjs9g8e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAK7ziZvh4n6pFMi1MJfKO95JFc451J9dY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "331440108260-snv7a1dh3ohmks9p830sb38gasjs9g8e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
