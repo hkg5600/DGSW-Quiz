@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Quiz(v5.4)</string>
+    <string name="app_name">모여봐요 퀴즈의 숲</string>
     <string name="drawer_open">Open navigation drawer</string>
     <string name="drawer_close">Close navigation drawer</string>
     <string name="completed">Congratulations!! \n You have completed the level.</string>

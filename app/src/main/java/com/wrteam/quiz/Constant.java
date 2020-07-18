@@ -7,7 +7,7 @@ public class Constant {
     //////////////////////// POST API & PARAMETER  //////////////////////////
 
     public static String QUIZ_URL = "http://dsg01.daerida.com/";  //api url
-    public static String FIREBASE_URL = "https://us-central1-dgsw-gy-quiz.cloudfunctions.net/";/*FireBase function URL*/
+    public static String FIREBASE_URL = "https://us-central1-dgsw-quiz.cloudfunctions.net/create";/*FireBase function URL*/
     /////// PARAMETERS  ///////
     public static String accessKey = "access_key";
     public static String accessKeyValue = "6808";
